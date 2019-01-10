@@ -17,11 +17,11 @@ Python 3.6
 
 2. silk-v3-decoder
 
-2.1 libmp3lame
+2.1. libmp3lame
 
-2.2 libopencore-amrnb
+2.2. libopencore-amrnb
 
-2.3 libopencore-amrwb
+2.3. libopencore-amrwb
 
 2.4 ffmpeg
 ./configure --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-version3 --enable-shared
