@@ -18,7 +18,9 @@ Python 3.6
 2. silk-v3-decoder
 
 2.1 libmp3lame
+
 2.2 libopencore-amrnb
+
 2.3 libopencore-amrwb
 
 2.4 ffmpeg
