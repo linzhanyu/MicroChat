@@ -5,7 +5,7 @@ MicroChat
 仅在 Linux 下测试通过
 
 # Clone #
-* git clone git@github.com:linzhanyu/MicroChat.git
+* git clone https://github.com/linzhanyu/MicroChat.git
 * git submodule init
 * git submodule update
 
