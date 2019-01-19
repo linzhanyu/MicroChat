@@ -35,6 +35,10 @@ adb
 
 python3 Main.py
 
+
+![image](http://github.com/linzhanyu/microchat/raw/master/res/instruction.png)
+
+
 # 输出数据 #
 
 在 data 目录中
