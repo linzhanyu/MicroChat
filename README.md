@@ -36,7 +36,8 @@ adb
 python3 Main.py
 
 
-![image](http://github.com/linzhanyu/microchat/raw/master/res/instruction.png)
+![image](https://raw.githubusercontent.com/linzhanyu/MicroChat/master/res/instruction.png)
+		      
 
 
 # 输出数据 #
